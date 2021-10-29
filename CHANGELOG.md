@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Lughnizaid/automatic-commit/compare/v1.1.0...v2.0.0) (2021-10-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* key in config file is now used for extending other config files
+
+### Features
+
+* allow provided config object to extend other configs ([f6f6cd3](https://github.com/Lughnizaid/automatic-commit/commit/f6f6cd371cc875cf86719a5bb0af3b9873687047))
+
 ## [1.1.0](https://github.com/Lughnizaid/automatic-commit/compare/v1.0.3...v1.1.0) (2021-10-29)
 
 
