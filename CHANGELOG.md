@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Lughnizaid/automatic-commit/compare/v2.2.0...v1.2.0) (2021-10-29)
+
+
+### Features
+
+* add new features about product ([a7e8e8b](https://github.com/Lughnizaid/automatic-commit/commit/a7e8e8b8c5b5421ff95b40fb520ec1f52f082e58))
+
 ## [1.1.0](https://github.com/Lughnizaid/automatic-commit/compare/v2.2.0...v1.1.0) (2021-10-29)
 
 
