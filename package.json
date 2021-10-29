@@ -1,0 +1,15 @@
+{
+  "name": "automatic-commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lughnizaid/automatic-commit.git",
+  "author": "Lughnizaid <56219460+Lughnizaid@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
