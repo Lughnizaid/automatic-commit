@@ -1,15 +1,10 @@
-console.Log("Cool");
+console.Log("Commit 1");
 
-console.Log("Awesome");
+console.Log("Commit 2");
 
-console.Log("Fixing");
+console.Log("Commit 3");
 
-console.Log("additional");
+console.Log("Commit 4");
 
-console.Log("additional");
+console.Log("Commit 5");
 
-console.Log("additional");
-
-console.Log("additional");
-
-console.Log("additional");
