@@ -2,22 +2,6 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.3.0](https://github.com/Lughnizaid/automatic-commit/compare/v1.2.0...v1.3.0) (2021-10-29)
-
-
-### Features
-
-* adding new pixlee features ([e264a3b](https://github.com/Lughnizaid/automatic-commit/commit/e264a3b6b43a0bab48941de301c0326c1c0af913))
-* adding new social features ([67a53d8](https://github.com/Lughnizaid/automatic-commit/commit/67a53d8607fd60ebf91b283328699d24fa1c44f1))
-* adding social login ([afc3df4](https://github.com/Lughnizaid/automatic-commit/commit/afc3df4dfbad82b174d60b24553b63744b3d1738))
-
-
-### Bug Fixes
-
-* this is to fix social button ([7bb87dd](https://github.com/Lughnizaid/automatic-commit/commit/7bb87dd4bce81f0fcddddfba0dbf34868c90d0ab))
-* this is to fox pixlee button ([cfa5e45](https://github.com/Lughnizaid/automatic-commit/commit/cfa5e45987b515c43113f6b7f4e0acfa51c3246c))
-* this is to log in button ([69e0aef](https://github.com/Lughnizaid/automatic-commit/commit/69e0aef877047ca0b6f87dcf4ac3e8ae09390c5c))
-
 ## [1.2.0](https://github.com/Lughnizaid/automatic-commit/compare/v2.2.0...v1.2.0) (2021-10-29)
 
 
