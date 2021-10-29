@@ -7,3 +7,5 @@ console.Log("Fixing");
 console.Log("additional");
 
 console.Log("additional");
+
+console.Log("additional");
