@@ -1,6 +1,6 @@
 {
   "name": "automatic-commit",
-  "version": "1.3.1",
+  "version": "1.4.0",
   "main": "index.js",
   "repository": "https://github.com/Lughnizaid/automatic-commit.git",
   "author": "Lughnizaid <56219460+Lughnizaid@users.noreply.github.com>",
