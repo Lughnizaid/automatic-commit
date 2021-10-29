@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/Lughnizaid/automatic-commit/compare/v2.0.0...v2.1.0) (2021-10-29)
+
+
+### Features
+
+* cool really cool ([652f100](https://github.com/Lughnizaid/automatic-commit/commit/652f10033888b5eb174715f1c26ea0f214e3930d))
+
+
+### Bug Fixes
+
+* prevent the application from crashing ([71d180e](https://github.com/Lughnizaid/automatic-commit/commit/71d180e05d5017ef29e5e337ada534e8a35c11e0))
+
 ## [2.0.0](https://github.com/Lughnizaid/automatic-commit/compare/v1.1.0...v2.0.0) (2021-10-29)
 
 
