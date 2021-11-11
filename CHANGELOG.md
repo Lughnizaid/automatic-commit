@@ -1,5 +1,18 @@
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.5.0](https://github.com/Lughnizaid/automatic-commit/compare/v1.4.0...v1.5.0) (2021-11-11)
+
+
+### Features
+
+* add new tags ([5b0cebd](https://github.com/Lughnizaid/automatic-commit/commit/5b0cebde9226bc1ee13c650aee00cacd50d292e8))
+
+
+### Bug Fixes
+
+* fix the homepage bugs ([971ceaf](https://github.com/Lughnizaid/automatic-commit/commit/971ceaf053cccd83c52f672a19f4c7ebdadc5dee))
 
 ## [1.4.0](https://github.com/Lughnizaid/automatic-commit/compare/v1.3.1...v1.4.0) (2021-10-29)
 
