@@ -1,5 +1,6 @@
 <template>
   <div>
-    <p> Cool </p>
+    <p> Test 1 </p>
+    <p> Test 2 </p>
   </div>
 </template>
